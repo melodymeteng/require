@@ -19,5 +19,7 @@ require(['jquery','dialog1'],function ($,dialog) {
         dialog.close();
     });
 
+
+
     
 });
